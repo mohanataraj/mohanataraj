@@ -2,7 +2,7 @@
 - 👀 I’m interested in math, gpu computing, microcontrollers and A.I.
 - 🌱 I’m currently learning multiple things - serial hobbyist 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mohan1519@gmail.com
+- 📫 How to reach me 
 
 <!---
 mohanataraj/mohanataraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
