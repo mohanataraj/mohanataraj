@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohanataraj
 - 👀 I’m interested in math, gpu computing, microcontrollers and A.I.
-- 🌱 I’m currently learning multiple things - serial hobbyist 
+- 🌱 I’m currently learning multiple things also you are probably looking at a guy who put internet in space. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
